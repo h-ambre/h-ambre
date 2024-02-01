@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Bienvenue sur mon profil GitHub ! 🌸</h1>
 
-<p align="center">Je suis Ambre, étudiante à la Wild Code School, où j'effectue une formation de développeur web. 
-Je suis très contente de partager ici mes exercices réalisés en formation ainsi que mes projets personnels. 
+<p align="center">Je suis Ambre, j'ai étudié à la Wild Code School, où j'ai effectué une formation de développeur web. 
+Je suis très contente de partager ici mes exercices réalisés en formation ainsi que d'autres projets qui me tient à coeur. 
 Ce portfolio me permet de documenter ma progression et de mettre en valeur mes compétences.</p>
 
 <h1 align="center">Compétences et Technologies 🦄🔧</h1>
